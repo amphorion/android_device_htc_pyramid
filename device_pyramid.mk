@@ -42,7 +42,6 @@ PRODUCT_COPY_FILES += \
     device/htc/pyramid/ramdisk/init.pyramid.usb.rc:root/init.pyramid.usb.rc \
     device/htc/pyramid/ramdisk/ueventd.pyramid.rc:root/ueventd.pyramid.rc \
     device/htc/pyramid/ramdisk/ueventd.rc:root/ueventd.rc \
-    devive/htc/pyramid/ramdisk/init.qcom.fm.sh:system/etc/init.qcom.fm.sh
 
 ## recovery and custom charging
 PRODUCT_COPY_FILES += \
