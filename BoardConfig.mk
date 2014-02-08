@@ -50,7 +50,7 @@ BOARD_USES_LEGACY_RIL := true
 BOARD_USE_NEW_LIBRIL_HTC := true
 
 # FM Radio
-BOARD_HAVE_FM_RADIO := true
+#BOARD_HAVE_FM_RADIO := true
 
 # Filesystem
 TARGET_USERIMAGES_USE_EXT4 := true
