@@ -113,7 +113,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
     dalvik.vm.lockprof.threshold=500 \
     ro.com.google.locationfeatures=1 \
     dalvik.vm.dexopt-flags=m=y \
-    ro.goo.version=$(shell date +%s) \
     ro.config.low_ram=true
 
 # call the proprietary setup
