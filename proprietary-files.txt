@@ -19,7 +19,7 @@ lib/libaudioalsa.so
 lib/libhtc_acoustic.so
 
 # Camera
-lib/hw/camera.default.so
+lib/hw/camera.msm8660.so
 lib/libcameraface.so
 lib/libcamerapp.so
 lib/libgemini.so
